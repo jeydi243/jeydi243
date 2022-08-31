@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/jeydi243" target="blank"><img src="https://img.shields.io/twitter/follow/jeydi243?logo=twitter&style=for-the-badge" alt="jeydi243" /></a> </p>
 
-- 🔭 I’m currently working on **Gesi**
+- 🔭 I’m currently working on **Gesi and My portfoliio**
 
 - 🌱 I’m currently learning **NestJS**
 
-- 👯 I’m looking to collaborate on **Typescript Project**
+- 👯 I’m looking to collaborate on **Python & Typescript Project**
 
 - 🤝 I’m looking for help with **Typerscript**
 
 - 👨‍💻 All of my projects are available at [jeydi.me](jeydi.me)
 
-- 💬 Ask me about **Vue, Flutter, Firebase and NodeJS**
+- 💬 Ask me about **Python, Vue, Flutter, Firebase and NodeJS**
 
 - 📫 How to reach me **ilungakadiongo@gmail.com**
 
